@@ -34,3 +34,37 @@ Prettier : 코드를 자동으로 정렬해주고 이름 그대로 코드를 예
 
 ![image](https://github.com/Soojong94/Front-end_lesoon/assets/155703090/10f00e51-c35f-4a9f-aa7f-e6311a0c311f)
 
+
+사용하는 색 모음
+  "workbench.colorCustomizations": {
+  
+    // vscdoe 전체 전경 색
+    "editor.background": "#020715",
+    
+    // 맨 왼쪽 activityBar
+    "activityBar.background": "#020715",
+    
+    // 사이드바(파일,폴더) 배경 색
+    "sideBar.background": "#020715",
+    
+    // 그룹 헤더 전체 배경 색
+    "editorGroupHeader.tabsBackground": "#020715",
+    
+    // 선택된 탭 배경색
+    "tab.activeBackground": "#0f1738",
+    
+    // 비활성인 탭 배경색
+    "tab.inactiveBackground": "#020715",
+    
+    // 상단 타이틀 배경색
+    "titleBar.activeBackground": "#020715",
+    
+    // 상단 타이틀 글자색
+    "titleBar.activeForeground": "#fff",
+    
+    // 하단 상태 배경색
+    "statusBar.background": "#020715"
+  },
+
+폰트
+"editor.inlayHints.fontFamily": "Hack, ,  Mabinogi_Classic"
